@@ -1,0 +1,16 @@
+.thematic {
+    display: grid;
+    grid-template-columns: 1fr 9fr; 
+}
+
+.categoryItems {
+    padding: 10px; 
+}
+
+.categoryItems .active {
+    color: white; 
+}
+
+.translate {
+    padding: 10px; 
+}
